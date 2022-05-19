@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliSakanak
 - 👀 I’m interested in Eastern philosophy
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently learning Python, SQL (MySQL) and Docker!
 - 💞️ I’m looking to collaborate on anything I can handle!
 - 📫 How to reach me ...
 
