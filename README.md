@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AliSakanak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, SQL (MySQL) and Docker!
-- 💞️ I’m looking to collaborate on anything I can handle!
-- 📫 How to reach me ...
+- 👀 I have created a free to use web-app (optional install) at https://www.footydata.cc.
+  - It is a football analytics platform for users who record their football matches via a GPS (E.g. smart watch)
+- 📫 Reach me on alisakanak@gmail.com
 
 <!---
 AliSakanak/AliSakanak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
