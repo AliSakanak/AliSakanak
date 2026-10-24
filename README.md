@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @AliSakanak
-- 👀 I have created a free to use web-app (optional install) at https://www.footydata.cc.
+- Before the LLMs of today, I was a data engineer. Now, I am not sure what I am.
+
+- I have created a free to use web-app at https://www.footydata.cc.
   - It is a football analytics platform for users who record their football matches via a GPS (E.g. smart watch)
 - 📫 Reach me on alisakanak@gmail.com
 
